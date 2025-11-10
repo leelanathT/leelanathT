@@ -62,10 +62,16 @@
   <a href="https://www.postgresql.org/" target="_blank">
     <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
   </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img title="MySQL" alt="MySQL" src="assets/mysql.svg" width="60" height="40" style="vertical-align: middle; margin: 10px;" />
+ <a href="https://www.mysql.com/" target="_blank">
+    <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
   </a>
     <a href="https://www.python.org/" target="_blank">
     <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-  </a>   
+  </a>  
+  <a href="https://databricks.microsoft.com/" target="_blank">
+    <img style="margin: 10px;" src="https://seeklogo.com/images/D/databricks-logo-699CA7A0BB-seeklogo.com.png" alt="Azure Databricks" height="50" />
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Microsoft Azure" height="50" />
+  </a>
 </div>
