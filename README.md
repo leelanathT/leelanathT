@@ -65,4 +65,7 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img title="MySQL" alt="MySQL" src="assets/mysql.svg" width="60" height="40" style="vertical-align: middle; margin: 10px;" />
   </a>
-  <a href="https://www.python.o
+    <a href="https://www.python.org/" target="_blank">
+    <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+  </a>   
+</div>
