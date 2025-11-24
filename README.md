@@ -27,7 +27,7 @@
   
 🤔 If you don't write your SQL queries in uppercase, I don't trust you.
   
-📈 Madly passionate about Modern Data Stacks, Data Engineering, DataOps, and saving the day with top-notch data governance practices for enterprise data architectures. Let's optimize that data flow!
+📈 Deeply driven by Modern Data Stacks, Data Engineering, and DataOps—while ensuring rock-solid data governance across enterprise architectures. Always ready to streamline, optimize, and elevate your data workflows.
 
 
 <br>
