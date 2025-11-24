@@ -25,8 +25,6 @@
 
 👩‍🎓 Hai I am Leelanath
   
-✍️ Master of Data Science and Innovation (MDSI) graduate from the University of Technology Sydney, armed with supercharged data skills.
-  
 🤔 If you don't write your SQL queries in uppercase, I don't trust you.
   
 📈 Madly passionate about Modern Data Stacks, Data Engineering, DataOps, and saving the day with top-notch data governance practices for enterprise data architectures. Let's optimize that data flow!
