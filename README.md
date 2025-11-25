@@ -25,7 +25,7 @@
 
 👩‍🎓 Hai I am Leelanath
   
-🤔 If you don't write your SQL queries in uppercase, I don't trust you.
+🤔 Expecting data engineers to fix data quality is like asking your plumber to give you clean water.
   
 📈 Deeply driven by Modern Data Stacks, Data Engineering, and DataOps—while ensuring rock-solid data governance across enterprise architectures. Always ready to streamline, optimize, and elevate your data workflows.
 
